@@ -1,5 +1,4 @@
 # Marketing-Campaign-Analysis
-# Readme File for Marketing Campaign Analysis
 
 ## Overview
 
